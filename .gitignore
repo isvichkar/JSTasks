@@ -28,4 +28,4 @@ pluginConfig.json
 .sass-cache/
 
 # REDIS
-dumb.rdb
+dumb.rdbgit remote set-url origin https://github.com/my_user_name/my_repo.git
